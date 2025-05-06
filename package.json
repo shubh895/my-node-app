@@ -1,0 +1,13 @@
+{
+    "name": "my-node-app",
+    "version": "1.0.0",
+    "description": "Simple Node app for Jenkins test",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "test": "echo \"No tests defined\""
+    },
+    "author": "shubh",
+    "license": "ISC"
+  }
+  
